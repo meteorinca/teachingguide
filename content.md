@@ -1,7 +1,8 @@
-# Six Signposts from Visible Learning for Teachers
+# Six Signposts for Edumacators
 ### Excellence in Education
 
-The conclusions in *Visible Learning* provide a roadmap for instructional excellence. Here are the six signposts:
+The conclusions in *Visible Learning* provide a roadmap for instructional excellence. 
+Here are the six signposts:
 
 1. **The Power of Teachers**
    Teachers are among the most powerful influences in learning.
